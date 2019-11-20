@@ -1,0 +1,25 @@
+[{
+    "user": "Min Khant",
+    "uid": "1",
+    "connections":
+    [
+        {
+            "user": "Thet Htet Aung",
+            "uid": "2",
+            "relation": "High-school",
+            "networks": ""
+        },
+        {
+            "user": "Thwin Thu Han",
+            "uid": "3",
+            "relation": "Collgue",
+            "networks": ""
+        },
+        {
+            "user": "Phyu Thazin Thant",
+            "uid": "5",
+            "relation": "Collgue",
+            "networks": ""
+        }
+    ]
+}]
